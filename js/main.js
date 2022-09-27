@@ -11,11 +11,10 @@ $(document).ready(function(){
         $(this).children(":first").css("transform", "translateX(101%)")
     });
     
-    
-    
-    
-    
-    
-    
+    // Animate scroll
+
+    new WOW().init();
     
 });
+
+
