@@ -26,9 +26,6 @@
 
     .ourDirections_block {
         height: 1370px;
-        background: url("../images/mainImg2-1.jfif");
-        background-position: right;
-        background-size: cover;
     }
 
     .ourDirections_mainBlock {
@@ -401,9 +398,6 @@
 
     .ourDirections_block {
         height: 1370px;
-        background: url("../images/mainImg2-1.jfif");
-        background-position: center;
-        background-size: cover;
     }
     
     .ourDirections_mainBlock {
