@@ -475,11 +475,11 @@
 
     .menu_burger a li {
         width: 160px;
-        margin-top: 9px;
+        margin-top: 5px;
     }
 
     .menu_burger a li p {
-        font-size: 11px;
+        font-size: 12px;
     }
 
     .menu_burger a li img {
