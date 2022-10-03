@@ -42,6 +42,10 @@
     .ourDirections_mainBlock__rightSide {
         height: 555px;
     }
+    
+    .ourDirections_item__moreInfoBlock{
+        height: 200px;
+    }
 
     .ourDirections_item {
         width: 500px;
